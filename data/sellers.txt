@@ -1,0 +1,2 @@
+1|1|aod store|jakarta|0877|aod@gmail.com
+2|2|fei_store|kimak|083|feistore@gmail.com
